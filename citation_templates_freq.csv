@@ -1,0 +1,135 @@
+wiki_lang,source_type,freq,freq_rel
+en,cite web,106271,0.45
+en,cite news,45080,0.19
+en,cite book,24346,0.1
+en,Cite web,16219,0.07
+en,cite journal,12666,0.05
+en,Cite news,6881,0.03
+en,cite magazine,4611,0.02
+en,citation,3972,0.02
+en,Cite book,3823,0.02
+en,Citation,2334,0.01
+en,Cite journal,2222,0.01
+en,cite report,1853,0.01
+en,cite encyclopedia,978,0.0
+en,cite press release,847,0.0
+en,Cite magazine,546,0.0
+en,cite map,452,0.0
+en,cite conference,253,0.0
+en,cite thesis,219,0.0
+en,cite AV media,215,0.0
+en,cite interview,180,0.0
+en,Cite press release,100,0.0
+en,Cite web <!-- Citation bot bypass-->,88,0.0
+en,Cite AV media,87,0.0
+en,Cite report,76,0.0
+en,Cite encyclopedia,68,0.0
+en,cite episode,65,0.0
+en,cite court,57,0.0
+en,Cite conference,50,0.0
+en,Cite thesis,46,0.0
+en,Cite episode,30,0.0
+en,cite techreport,24,0.0
+en,cite podcast,23,0.0
+en,Cite book <!-- Citation bot bypass-->,21,0.0
+en,cite speech,15,0.0
+en,cite sign,15,0.0
+en,Cite map,15,0.0
+en,Cite journal <!-- Citation bot bypass-->,8,0.0
+en,cite patent,5,0.0
+en,cite video game,4,0.0
+en,Cite interview,4,0.0
+en,Cite sign,4,0.0
+en,cite mailing list,4,0.0
+en,cite newsgroup,3,0.0
+en,Cite podcast,3,0.0
+en,cite web <!-- Please discuss on the talk page before changing the format of this template. -->,3,0.0
+en,Cite techreport,2,0.0
+en,cite web <!--|author=Gamasutra staff-->,2,0.0
+en,Cite newsgroup,1,0.0
+en,Cite magazine <!-- Citation bot bypass-->,1,0.0
+en,Cite report <!-- Citation bot bypass-->,1,0.0
+en,Cite speech,1,0.0
+en,cite news<!--|title =Barry Voight-->,1,0.0
+en,cite journal <!-- Citation bot bypass because doi leads to an inappropriate paywall-->,1,0.0
+en,cite web <!-- comments to stop bot from finding doi -->,1,0.0
+en,cite web <!--Author specified in properties of PDF-->,1,0.0
+en,cite web <!--|author=Staff -->,1,0.0
+en,cite web <!--|author=Staff-->,1,0.0
+en,cite web<!-- Deny Citation Bot-->,1,0.0
+en,cite comic,1,0.0
+en,cite book<!--Deny Citation Bot-->,1,0.0
+en,"cite book <!-- author parameter causes error with so many commas, no apparent workaround -->",1,0.0
+en,cite book <!-- Citation bot bypass-->,1,0.0
+en,cite web<!--Citation bot -->,1,0.0
+en,cite web<!--Citation bot deny-->,1,0.0
+en,cite web<!--Deny Citation Bot-->,1,0.0
+en,cite news<!--|website=bbc.com-->,1,0.0
+es,cita web,24826,0.39
+es,Cita web,24140,0.38
+es,cita publicación,3785,0.06
+es,cita libro,3464,0.05
+es,cita noticia,2508,0.04
+es,Cita publicación,1989,0.03
+es,Cita libro,1686,0.03
+es,Cita noticia,766,0.01
+es,Obra citada,336,0.01
+es,cita enciclopedia,71,0.0
+es,cita vídeo,66,0.0
+es,obra citada,41,0.0
+es,Cita episodio,32,0.0
+es,Cita enciclopedia,23,0.0
+es,cita conferencia,12,0.0
+es,Cita conferencia,9,0.0
+es,Cita vídeo,7,0.0
+es,Cita entrevista,6,0.0
+es,cita tesis,6,0.0
+es,Cita tesis,6,0.0
+es,cita mapa,6,0.0
+es,cita episodio,1,0.0
+es,cita entrevista,1,0.0
+fr,Lien web,47537,0.66
+fr,lien web,19918,0.28
+fr,article,2359,0.03
+fr,Article,702,0.01
+fr,ouvrage,602,0.01
+fr,Ouvrage,373,0.01
+fr,lien vidéo,37,0.0
+fr,Lien vidéo,12,0.0
+fr,lien conférence,12,0.0
+fr,lien_web,11,0.0
+fr,interview,7,0.0
+fr,Lien conférence,6,0.0
+fr,Interview,4,0.0
+fr,article encyclopédique,1,0.0
+fr,Lien web <!--|url=http://www.unep-wcmc.org/species/data/species_sheets/crested.htm-->,1,0.0
+fr,Lien_web,1,0.0
+fr,lien web<!--|url=http://www.ansi.okstate.edu/breeds/horses/andalusian/index.htm-->,1,0.0
+pt,citar web,61959,0.68
+pt,Citar web,14884,0.16
+pt,citar jornal,3066,0.03
+pt,citar livro,3044,0.03
+pt,citar periódico,2995,0.03
+pt,Citar periódico,2611,0.03
+pt,Citar livro,1143,0.01
+pt,Citation,628,0.01
+pt,Citar jornal,262,0.0
+pt,citation,136,0.0
+pt,citar comunicado de imprensa,75,0.0
+pt,citar enciclopédia,71,0.0
+pt,citar vídeo,69,0.0
+pt,citar tese,51,0.0
+pt,Citar enciclopédia,41,0.0
+pt,Citar tese,33,0.0
+pt,Citar relatório,28,0.0
+pt,Citar vídeo,24,0.0
+pt,citar conferência,23,0.0
+pt,citar episódio,21,0.0
+pt,citar relatório,20,0.0
+pt,citar entrevista,18,0.0
+pt,Citar comunicado de imprensa,10,0.0
+pt,Citar conferência,8,0.0
+pt,Citar entrevista,4,0.0
+pt,citar podcast,1,0.0
+pt,citar lista de discussão,1,0.0
+pt,Citar episódio,1,0.0
