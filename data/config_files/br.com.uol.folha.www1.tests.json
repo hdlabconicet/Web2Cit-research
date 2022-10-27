@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/folha/livrariadafolha/658641-baseado-em-livro-oracoes-para-bobby-leva-gays-e-heteros-ao-choro.shtml",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Baseado em livro, \"Ora\u00e7\u00f5es para Bobby\" leva gays e h\u00e9teros ao choro"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "S\u00e9rgio"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Ripardo"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2009-09-27"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/opiniao/2020/04/nosso-plano-cohen-de-cada-dia.shtml",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Nosso Plano Cohen de cada dia"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Alberto Zacharias"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Toron"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2020"
+                ]
+            }
+        ]
+    }
+]

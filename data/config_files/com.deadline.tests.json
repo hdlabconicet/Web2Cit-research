@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/2015/11/kevin-spacey-baby-driver-billionaire-boys-club-castings-1201606018/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Kevin Spacey Joining 'Baby Driver' & 'Billionaire Boys Club'"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Mike, Jr."
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Fleming"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2015-11-03"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/2019/01/timothy-hutton-the-glorias-gloria-steinem-movie-julianne-moore-janelle-monae-alicia-vikander-1202536778/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Timothy Hutton Joins Julianne Moore, Alicia Vikander In Gloria Steinem Biopic 'The Glorias: A Life On The Road'"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Anthony"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "D'Alessandro"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2019-01-17"
+                ]
+            }
+        ]
+    }
+]

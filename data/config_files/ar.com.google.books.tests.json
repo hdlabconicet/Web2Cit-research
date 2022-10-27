@@ -1,0 +1,50 @@
+[
+    {
+        "path": "/books?id=Jq-A2xEoAHIC&pg=PA72",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Madonna chooses dare"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Barry"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1998-04-25"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/books?id=fsi_VCMy0tQC&pg=PA108&redir_esc=y",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Madonna, \"Rain\" (Maverick/Sire/Warner Bros.)"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Charles"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1993-10-25"
+                ]
+            }
+        ]
+    }
+]

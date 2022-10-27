@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/TRANSCRIPTS/0603/21/ltm.01.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Storms Blanket Midwest; Insurgents Launch Full-Scale Attack on Iraqi Police"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Soledad"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "O'Brien"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2006-03-21"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/2003/WORLD/meast/03/18/sprj.irq.spain/index.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Spain: No combat role in Iraq war"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Al"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Goodman"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2003-03-18"
+                ]
+            }
+        ]
+    }
+]

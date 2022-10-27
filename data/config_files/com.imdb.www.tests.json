@@ -1,0 +1,56 @@
+[
+    {
+        "path": "/title/tt0264648/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "A Glimpse of Hell (2001) (TV)"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "IMDB.com"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2001"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/title/tt1435167/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "The Asteroid and the Dinosaur (Nova S08E08, 1981)"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Luis"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Alvarez"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1981-03-10"
+                ]
+            }
+        ]
+    }
+]

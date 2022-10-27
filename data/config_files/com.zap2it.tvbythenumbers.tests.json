@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/2009/11/10/cartoon-networkadult-swim-nielsen-ratings-notes-for-week-ending-november-8-2009/33193/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Cartoon Network/Adult Swim Nielsen ratings notes for week ending November 8, 2009"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Robert"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Seidman"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2009-11-10"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/network-press-releases/the-chase-season-4-to-premiere-on-tuesday-january-27-on-gsn/347838/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "''The Chase'' Season 4 to Premiere on Tuesday, January 27 on GSN"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Sara"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Bibel"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2015-01-08"
+                ]
+            }
+        ]
+    }
+]

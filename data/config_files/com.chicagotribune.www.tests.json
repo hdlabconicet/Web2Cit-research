@@ -1,0 +1,50 @@
+[
+    {
+        "path": "/news/ct-xpm-1999-12-23-9912230065-story.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Multilayered Humor: 'Animaniacs' Serves Up Laughs For All Age Groups"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1999-12-23"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/news/ct-xpm-1995-03-07-9503080221-story.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Driving You Wakko: 'Animaniacs' Bits Sound Familiar Because They Are"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Donald"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Liebenson"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1995-03-07"
+                ]
+            }
+        ]
+    }
+]

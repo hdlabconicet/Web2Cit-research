@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/album/that-one-night-live-in-buenos-aires-mw0000487698",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Megadeth: That One Night: Live in Buenos Aires"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Greg"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Prato"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2007-03-27"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/album/3-of-hearts-mw0000004177",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "AllMusic Review by Stephen Thomas Erlewine"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Stephen Thomas"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Erlewine"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2001-03-06"
+                ]
+            }
+        ]
+    }
+]

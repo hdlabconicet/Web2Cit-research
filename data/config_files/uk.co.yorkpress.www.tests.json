@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/sport/9557727.york-city-relishing-prospect-of-fa-trophy-ties-against-luton-town/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "York City relishing prospect of FA Trophy ties against Luton Town"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Dave"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Flett"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2012-02-28"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/news/ryedale/13934998.new-york-city-boss-jackie-mcnamara-excited-by-league-two-challenge-at-bootham-crescent/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "New York City boss Jackie McNamara excited by League Two challenge at Bootham Crescent"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Peter"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Martini"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2015-11-04"
+                ]
+            }
+        ]
+    }
+]

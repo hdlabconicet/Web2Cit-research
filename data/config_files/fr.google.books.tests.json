@@ -1,0 +1,50 @@
+[
+    {
+        "path": "/books?id=64gnLowl6w8C",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Angola cl\u00e9 de l'Afrique"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Mugur Valahu"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1966"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/books?id=Zz9U4spzU2sC&pg=PA10&lpg=PA10",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "''National Mathematics Day : facts and figures''"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Vijay Navlakha"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2013"
+                ]
+            }
+        ]
+    }
+]

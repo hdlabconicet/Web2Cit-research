@@ -1,0 +1,56 @@
+[
+    {
+        "path": "/celebrity/bradley-cooper-zoe-saldana-split-report/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Buzz:Bradley Cooper & Zoe Saldana Split Again"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Nudd, Tim"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2013-01-03"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/celebrity/angelina-jolie-and-brad-pitt-split-source-responds-to-abuse-allegations/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Brad Pitt's Side of the Story: He 'Did Not Hit' Maddox as Plane Fight with Angelina Jolie 'Got Out of Hand,' Says Source"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Michael"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Miller"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2016-09-22"
+                ]
+            }
+        ]
+    }
+]

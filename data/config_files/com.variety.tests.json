@@ -1,0 +1,56 @@
+[
+    {
+        "path": "/1998/film/reviews/from-the-earth-to-the-moon-2-1200453500/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "From the Earth to the Moon"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Richmond, Ray"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1998-03-31"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/1940/film/reviews/the-philadelphia-story-1200413300/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "''The Philadelphia Story'' review"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Herb"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Golden"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1940-11-26"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/newspapers?nid=950&dat=19800617&id=XQAMAAAAIBAJ&pg=6904,451711&hl=en",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Top of the Chart"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Bob"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Chick"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1980-06-17"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/newspapers?id=uWdKAAAAIBAJ&sjid=25MMAAAAIBAJ&pg=6666,7567657",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Baseball Notebook"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Seth"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Livingstone"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1990-04-27"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "path": "/brasil/mg/santana-do-paraiso/pesquisa/38/46996",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "itemType",
+                "goal": "webpage"
+            },
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Produto Interno Bruto dos Munic\u00edpios - 2018"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "IBGE Cidades"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2018"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/brasil/mg/ipatinga/pesquisa/39/30279",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "itemType",
+                "goal": "webpage"
+            },
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Taxa de mortalidade infantil"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "IBGE Cidades"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2017"
+                ]
+            }
+        ]
+    }
+]
