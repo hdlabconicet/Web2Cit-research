@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:NewsBank:JHNB&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=11D3F5AFDDB40100&svc_dat=InfoWeb:aggregated4&req_dat=AA98CDC331574F0ABEAFF732B33DC0B2",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Veterans Memorial Tollway: I-355 extension traffic flowing smoothly"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Ken"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "O'Brien"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2007-11-13"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:NewsBank:CTRB&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=0FF82AD828F23C2E&svc_dat=InfoWeb:aggregated4&req_dat=AA98CDC331574F0ABEAFF732B33DC0B2",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Suits pile up on north\u2013south Tollway"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Robert"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Enstad"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1990-04-29"
+                ]
+            }
+        ]
+    }
+]

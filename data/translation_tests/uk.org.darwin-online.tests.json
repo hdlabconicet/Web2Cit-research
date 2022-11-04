@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/EditorialIntroductions/vanWyhe_JournalDAR158.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "[Darwin's personal 'Journal' (1809\u20131881)]"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Charles"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Darwin"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2006"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/content/frameset?itemID=F1593&viewtype=image&pageseq=1",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Alfred Russel Wallace: letters and reminiscences"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "James"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Marchant"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1916"
+                ]
+            }
+        ]
+    }
+]

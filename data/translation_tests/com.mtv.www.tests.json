@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/news/2296784/rihanna-whats-my-name-mtv-the-seven-performance-video/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Rihanna Performs 'What's My Name?' On MTV's 'The Seven,' Live In Times Square"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Anitai"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Tamar"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2010-11-15"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/news/1428047/destinys-child-sued-by-former-members/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Destiny's Former Children Settle Suit"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Rob"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Mancini"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2000-03-24"
+                ]
+            }
+        ]
+    }
+]

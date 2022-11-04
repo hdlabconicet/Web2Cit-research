@@ -1,0 +1,56 @@
+[
+    {
+        "path": "/articles/2011-08-16-the-story-of-dota-article",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "The Story of DOTA; How a bastard mod became its own genre"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Paul"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Dean"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2014-04-14"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/articles/r_mariosonic_ds",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Mario & Sonic at the Olympic Games (DS) Review"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Ellie"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Gibson"
+                ]
+            }
+        ]
+    }
+]

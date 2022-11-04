@@ -1,0 +1,56 @@
+[
+    {
+        "path": "/celebrity/bradley-cooper-zoe-saldana-split-report/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Buzz:Bradley Cooper & Zoe Saldana Split Again"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Nudd, Tim"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2013-01-03"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/awards/inside-oscar-winner-brie-larsons-pop-star-past/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Brie Larson: Oscar Winner and ... Pop Star? Inside the Actress's Early Career in Music"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Lindsay"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Kimble"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2016-03-01"
+                ]
+            }
+        ]
+    }
+]

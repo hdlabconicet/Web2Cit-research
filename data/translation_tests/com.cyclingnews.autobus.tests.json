@@ -1,0 +1,50 @@
+[
+    {
+        "path": "/news.php?id=news/2009/may09/may01news2",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Garzelli tips Leipheimer for Giro"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Gregor Brown"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2009-05-01"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/road/2009/giro09/?id=/features/2009/giro09_battlegrounds",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Giro's key battlegrounds"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Les Clarke"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2009-05-06"
+                ]
+            }
+        ]
+    }
+]

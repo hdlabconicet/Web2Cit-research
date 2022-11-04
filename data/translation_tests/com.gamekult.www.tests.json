@@ -1,0 +1,50 @@
+[
+    {
+        "path": "/actualite/top-10-nintendo-64-usa-2196.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Top 10 Nintendo 64 USA septembre 2000"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Usul"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2000"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/actualite/top-10-usa-des-jeux-consoles-530.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Top 10 USA des jeux consoles septembre 2000"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Dagdag"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2000"
+                ]
+            }
+        ]
+    }
+]

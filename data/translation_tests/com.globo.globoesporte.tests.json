@@ -1,0 +1,50 @@
+[
+    {
+        "path": "/Esportes/Noticias/Mais_Esportes/0,,MUL1289653-16317,00-FALTA+DE+APOIO+POPULAR+E+MAIOR+OBSTACULO+DE+TOQUIO+NA+CANDIDATURA+A.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Falta de apoio popular \u00e9 maior obst\u00e1culo de T\u00f3quio na candidatura a 2016"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Globoesporte.com"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2009-09-02"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/Esportes/Noticias/Futebol/Brasileirao/Serie_A/0,,MUL1405173-9827,00-COM+SHOW+DE+WASHINGTON+SAO+PAULO+BATE+SPORT+E+SE+GARANTE+NA+LIBERTADORES.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Com show de Washington, S\u00e3o Paulo bate Sport e se garante na Libertadores 2010"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Marcelo Prado"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2009-06-12"
+                ]
+            }
+        ]
+    }
+]

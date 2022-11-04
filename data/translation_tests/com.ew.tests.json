@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/movies/2017/08/11/glass-castle-brie-larson-interview/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "How Brie Larson brought Jeannette Walls' The Glass Castle to life"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Devan"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Coggan"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2017-08-11"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/article/2009/06/05/latest-news-hollywood-73/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "The Hollywood Insider"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Christine"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Spines"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2009-06-05"
+                ]
+            }
+        ]
+    }
+]

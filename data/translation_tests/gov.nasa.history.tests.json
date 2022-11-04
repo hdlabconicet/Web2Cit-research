@@ -1,0 +1,68 @@
+[
+    {
+        "path": "/SP-4103/app-b.htm",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Model Research"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Alex"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Roland"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1985"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/SP-368/contents.htm",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Biomedical Results of Apollo"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Maurice A.",
+                    "Michael N.",
+                    "Charles C.",
+                    "James W."
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Carson",
+                    "Rouen",
+                    "Lutz",
+                    "McBarron, II"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1975"
+                ]
+            }
+        ]
+    }
+]

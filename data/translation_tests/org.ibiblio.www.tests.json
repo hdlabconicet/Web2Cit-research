@@ -1,0 +1,51 @@
+[
+    {
+        "path": "/hyperwar/AAF/V/index.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "The Pacific: Matterhorn to Nagasaki"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1953"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/hyperwar/USA/USA-P-Rabaul/index.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Cartwheel: The Reduction of Rabaul"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "John"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Miller",
+                    "Jr."
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1959"
+                ]
+            }
+        ]
+    }
+]

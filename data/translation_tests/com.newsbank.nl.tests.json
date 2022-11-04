@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/nl-search/we/Archives?p_product=DH&p_theme=dh&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=100080832E164CFE&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "'House of Music' Revisits Soulful Past"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Billy"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Tyus"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1996-12-27"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/nl-search/we/Archives?p_product=CSTB&p_theme=cstb&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EF7B35B6B4F1765&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Crystal clear on 'Monsters'"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Cindy"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Pearlman"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2001-10-28"
+                ]
+            }
+        ]
+    }
+]

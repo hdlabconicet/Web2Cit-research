@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/films/2003/02/14/confessions_of_a_dangerous_mind_2003_review.shtml",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Confessions of a Dangerous Mind (2003) Review"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Nev"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Pierce"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2003-03-16"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/blogs/eastenders/2012/07/on-set-with-rachel-bright.shtml",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "On Set With... Rachel Bright"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Katy"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "R"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2012-07-13"
+                ]
+            }
+        ]
+    }
+]

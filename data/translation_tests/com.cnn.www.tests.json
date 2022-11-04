@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/ALLPOLITICS/time/1998/12/15/johnson.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "An impeachment long ago: Andrew Johnson's saga"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Adam"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Cohen"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1998"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/ALLPOLITICS/1998/08/21/strike.poll/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Most Americans Support Sudan, Afghanistan Strikes"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Keating"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Holland"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1998-08-21"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "path": "/Health/Healthday/story?id=4507824&page=1",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Pet turtles pose salmonella danger to kids: They're banned from sale by law but still appear at flea markets, pet shops, experts say"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Reinberg, Steven"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2010-03-23"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/Politics/katy-perry-elton-john-perform-hillary-clinton-fundraiser/story?id=37359679",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Katy Perry, Elton John Perform at Hillary Clinton Fundraiser In New York"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Matthew"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Claiborne"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2016-03-03"
+                ]
+            }
+        ]
+    }
+]

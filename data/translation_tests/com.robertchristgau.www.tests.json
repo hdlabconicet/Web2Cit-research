@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/xg/cg/cgv3-87.php",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Christgau's Consumer Guide"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Robert"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Christgau"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1987-03-31"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/xg/cg/cgv1189-89.php",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Consumer Guide"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Robert"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Christgau"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1989-11-21"
+                ]
+            }
+        ]
+    }
+]

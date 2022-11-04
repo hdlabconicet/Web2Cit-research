@@ -1,0 +1,64 @@
+[
+    {
+        "path": "/SHOWBIZ/HWMin/9509/09-29/index.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "The Hollywood Minute"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Dennis"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Michael"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1995-09-29"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/2002/US/04/19/rec.flight.93.families/index.html?related",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Families say Flight 93 tapes prove heroism"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Phil",
+                    "David"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Hirschkorn",
+                    "Mattingly"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2002-04-19"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "path": "/books?id=7lgLAAAAIAAJ&lpg=PP1&ots=Rosk_LY3HM&pg=PA155",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Jonah's whale"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Paul"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Haupt"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1907"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/books?id=FHmUFBfxr1gC&printsec=frontcover&dq=Doody,+Margaret+++Sense+and+Sensibility.+Austen.&hl=fr&ei=2iRGTOuyKOrT4wbOmsXvAw&sa=X&oi=book_result&ct=result&resnum=1&ved=0CC4Q6AEwAA",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Sense and Sensibility (Introduction)"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "[[Margaret Doody]]"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2004"
+                ]
+            }
+        ]
+    }
+]

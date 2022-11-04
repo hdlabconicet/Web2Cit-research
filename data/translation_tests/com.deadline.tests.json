@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/2020/03/amy-adams-jennifer-garner-savewithstories-coronavirus-school-closures-1202885077/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Amy Adams & Jennifer Garner Launch #SaveWithStories To Support Children Who Are Out Of School Due To Coronavirus Outbreak"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Amanda"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "N'Duka"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2020-03-16"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/2020/07/star-wars-empire-strikes-back-tops-weekend-box-office-drive-ins-coronavirus-1202983364/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "''Empire Strikes Back'' leads at the weekend box office with $644K, 23 years after sequel's special edition \u2013 update"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Anthony"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "D'Alessandro"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2018-05-24"
+                ]
+            }
+        ]
+    }
+]

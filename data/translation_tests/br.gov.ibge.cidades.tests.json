@@ -1,0 +1,50 @@
+[
+    {
+        "path": "/brasil/mg/governador-valadares/pesquisa/17/15752",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Morbidade"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "IBGE Cidades"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2017"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/brasil/pr/sao-joao-do-triunfo/pesquisa/38/46996",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Produto Interno Bruto dos Munic\u00edpios - 2016"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Instituto Brasileiro de Geografia e Estat\u00edstica (IBGE)"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2016"
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/templates/story/story.php?storyId=1802779",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Nancy Drew, Updated"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Maureen"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Corrigan"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2004-03-30"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/templates/story/story.php?storyId=1066881",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Analysis: Today's date is signified in abbreviations using only odd numbers. 1-1, 1-9, 1-9-9-9. The next time that happens will be more than a thousand years from now."
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Robert"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Siegel"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1999-11-19"
+                ]
+            }
+        ]
+    }
+]

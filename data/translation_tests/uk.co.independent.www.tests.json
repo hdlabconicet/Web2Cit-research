@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/news/uk/home-news/church-to-mark-the-real-centenary-of-the-start-of-first-world-war-9631887.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Church to mark centenary of the start of WWI"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "David"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Keys"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2014-07-27"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/arts-entertainment/music/no-future-40-years-since-sex-pistols-stuck-two-fingers-up-at-the-british-establishmen-a8018671.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "No Future: 40 Years Since Sex Pistols Stuck Two Fingers Up at the British Establishment"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Matthew"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Worley"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2017-10-25"
+                ]
+            }
+        ]
+    }
+]

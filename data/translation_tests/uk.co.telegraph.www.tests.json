@@ -1,0 +1,64 @@
+[
+    {
+        "path": "/culture/music/new-music/10296479/Lorde-New-Music.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Lorde&nbsp;\u2013 New Music"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "James"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Lachno"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2013-09-11"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/culture/tvandradio/tv-on-demand/4731835/BBC-iPlayer-choices-Sunday-22-February.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Sissinghurst-BBC iPlayer"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Simon",
+                    "Pete"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Horsford",
+                    "Naughton"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2009-02-23"
+                ]
+            }
+        ]
+    }
+]

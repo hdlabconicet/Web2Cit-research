@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/wisdenalmanack/content/story/151789.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Notes by the Editor"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Sydney"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Southerton"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1935"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/wisdenalmanack/content/story/150174.html",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "MCC in Australia 1903\u201304: Impressions of the tour"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "B. J. T."
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Bosanquet"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1905"
+                ]
+            }
+        ]
+    }
+]

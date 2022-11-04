@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/life/television/news/2007-01-10-miley-cyrus_x.htm",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Miley Cyrus fulfills her destiny"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Ann"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Oldenburg"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2007-01-14"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/life/movies/reviews/2006-12-21-new-on-dvd_x.htm?csp=34",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "New on DVD"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Mike"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Clark"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2006-12-22"
+                ]
+            }
+        ]
+    }
+]

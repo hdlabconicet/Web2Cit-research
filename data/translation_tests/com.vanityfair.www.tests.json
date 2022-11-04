@@ -1,0 +1,58 @@
+[
+    {
+        "path": "/news/1917/05/james-joyce-portrait-of-the-artist-as-a-young-man",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "James Joyce, a new Irish novelist"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "John"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Quinn"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/news/politics/2012/02/mitt-romney-201202",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "The Meaning of Mitt"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Michael",
+                    "Scott"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Kranish",
+                    "Helman"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2012-01-04"
+                ]
+            }
+        ]
+    }
+]

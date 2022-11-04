@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/newspapers?id=pAYqAAAAIBAJ&pg=5356,801784&dq=ross-perot&hl=en",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Activist disrupt Perot rally"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Steven A."
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Holmes"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1992-07-03"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/newspapers?nid=1370&dat=19940701&id=o58VAAAAIBAJ&pg=6442,663158",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Michelle Pfeiffer is Webber's 'Evita'"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Francis O."
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Villacorta"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "1994-07-05"
+                ]
+            }
+        ]
+    }
+]

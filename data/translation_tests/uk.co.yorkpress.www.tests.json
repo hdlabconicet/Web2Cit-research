@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/sport/11531153.nigel-worthington-resigns-as-york-city-manager/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Nigel Worthington resigns as York City manager"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Dave"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Flett"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2014-10-13"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/sport/8449124.european-cup-winner-gary-mills-joins-york-city-from-blue-square-premier-rivals-tamworth/",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "European Cup winner Gary Mills joins York City from Blue Square Premier rivals Tamworth"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Tony"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Kelly"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2010-10-13"
+                ]
+            }
+        ]
+    }
+]

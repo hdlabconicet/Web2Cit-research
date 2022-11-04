@@ -1,0 +1,66 @@
+[
+    {
+        "path": "/Darren-Aronofskys-Films-Fragility-Hope/dp/1501306979/ref=asap_bc?ie=UTF8",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Darren Aronofsky\u2019s Films and the Fragility of Hope"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Jadranka"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Skorin-Kapov"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2015-11-19"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/Marine-Mammals-Evolutionary-Annalisa-Berta/dp/0120932253",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Marine mammals: evolutionary biology"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Annalisa",
+                    "James L.",
+                    "Kit M."
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Berta",
+                    "Sumich",
+                    "Kovacs"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2006"
+                ]
+            }
+        ]
+    }
+]

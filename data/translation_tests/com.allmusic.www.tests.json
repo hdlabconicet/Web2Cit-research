@@ -1,0 +1,62 @@
+[
+    {
+        "path": "/album/hannah-montana-the-movie-mw0000804688",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Hannah Montana - Hannah Montana: The Movie"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Heather"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Phares"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2009"
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/album/im-going-to-tell-you-a-secret-mw0000722250",
+        "@comment": "Automatically created. See https://github.com/hdcaicyt/Web2Cit-research/blob/main/create-config-files.ipynb",
+        "fields": [
+            {
+                "fieldname": "title",
+                "goal": [
+                    "Madonna > ''I'm Going to Tell You a Secret'' > Overview"
+                ]
+            },
+            {
+                "fieldname": "authorFirst",
+                "goal": [
+                    "Stephen Thomas"
+                ]
+            },
+            {
+                "fieldname": "authorLast",
+                "goal": [
+                    "Erlewine"
+                ]
+            },
+            {
+                "fieldname": "date",
+                "goal": [
+                    "2006-06-12"
+                ]
+            }
+        ]
+    }
+]
